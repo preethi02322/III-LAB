@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Static Home page</title>
+</head>
+<frameset rows="20% ,*">
+     <frame name="topframe" src="home.html"></frame>
+        <frameset cols="10%,*">
+             <frame name="leftframe" src="dept.html"></frame>
+             <frame name="rightframe" src="web.html"></frame>
+        </frameset>
+</frameset>
+<body>
+</body>
+</html>
